@@ -7,7 +7,7 @@ Stack, Tabs, and Drawer Navigation
 
 ## Contributors
 
-<p align="right">
-Jetrho V. Dela Cruz<br>
-Jeanne B. Jagualing
+<p align="left">
+<Strong>Jetrho V. Dela Cruz<br></Strong>
+<Strong>Jeanne B. Jagualing</Strong>
 </p>
