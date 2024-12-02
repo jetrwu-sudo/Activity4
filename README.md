@@ -1,12 +1,13 @@
-# Project Title
+# ACT4
 
-## Project Description
+## ACT4 
 BSIT3R7 - ACT4
 MobileProg
+Stack, Tabs, and Drawer Navigation
 
 ## Contributors
 
 <p align="right">
-  <strong>Jetrho V. Dela Cruz</strong><br>
-  <strong>Jeanne B. Jagualing</strong>
+Jetrho V. Dela Cruz<br>
+Jeanne B. Jagualing
 </p>
